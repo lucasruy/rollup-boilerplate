@@ -36,6 +36,20 @@ Building development code and watch changes
 yarn dev
 ```
 
+## Run ESLint
+
+Run this command to run ESLint for your JS code.
+
+```sh
+yarn lint
+```
+
+Run this command to run ESLint for your JS code and fix problems.
+
+```sh
+yarn lint:fix
+```
+
 ## Run tests
 
 Run this command to run tests of components of your library.
