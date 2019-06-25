@@ -8,6 +8,7 @@ import peerDepsExternal from 'rollup-plugin-peer-deps-external'
 import progress from 'rollup-plugin-progress'
 import replace from 'rollup-plugin-replace'
 import resolve from 'rollup-plugin-node-resolve'
+import stylelint from 'rollup-plugin-stylelint'
 
 export default [
   replace({
@@ -17,6 +18,7 @@ export default [
     includeDependencies: true
   }),
   eslint(),
+  stylelint(),
   includePaths({
     paths: ['./src']
   }),
