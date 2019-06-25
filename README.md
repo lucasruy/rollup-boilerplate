@@ -36,7 +36,7 @@ Building development code and watch changes
 yarn dev
 ```
 
-## Run ESLint
+## Run Lint
 
 Run this command to run ESLint for your JS code.
 
@@ -48,6 +48,12 @@ Run this command to run ESLint for your JS code and fix problems.
 
 ```sh
 yarn lint:fix
+```
+
+Run this command to run StyleLint for your styled-components.
+
+```sh
+yarn lint:css
 ```
 
 ## Run tests
