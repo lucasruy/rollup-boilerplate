@@ -6,7 +6,8 @@
   </a>
 </p>
 
-> Rollup simple boilerplate to make libraries using React.
+Simple boilerplate to make components libraries using React and Jest.
+> Designed to be quick and easy when starting your project.
 
 ## Install
 
