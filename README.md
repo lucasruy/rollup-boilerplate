@@ -4,6 +4,12 @@
   <a href="https://github.com/LucasRuy/rollup-boilerplate/blob/master/LICENSE">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" target="_blank" />
   </a>
+  <a href="https://deepscan.io/dashboard#view=project&tid=5410&pid=7182&bid=68252">
+    <img src="https://deepscan.io/api/teams/5410/projects/7182/branches/68252/badge/grade.svg" alt="DeepScan grade">
+  </a>
+  <a href="https://www.codefactor.io/repository/github/lucasruy/rollup-boilerplate">
+    <img src="https://www.codefactor.io/repository/github/lucasruy/rollup-boilerplate/badge" alt="CodeFactor" />
+  </a>
 </p>
 
 Simple boilerplate to make components libraries using React and Jest.
