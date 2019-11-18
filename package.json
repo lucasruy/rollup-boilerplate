@@ -67,7 +67,7 @@
     "react-dom": "^16.11.0",
     "react": "^16.10.2",
     "rollup-plugin-alias": "^2.0.1",
-    "rollup": "^1.26.5",
+    "rollup": "^1.27.0",
     "react": "^16.11.0",
     "react-test-renderer": "^16.11.0",
     "rollup-plugin-alias": "^2.2.0",
