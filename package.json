@@ -51,7 +51,7 @@
   "devDependencies": {
     "@babel/core": "^7.7.2",
     "@babel/preset-react": "^7.7.0",
-    "@babel/preset-env": "^7.7.4",
+    "@babel/preset-react": "^7.7.4",
     "babel-jest": "^24.9.0",
     "eslint": "^5.16.0",
     "eslint-config-airbnb": "^17.1.1",
@@ -67,7 +67,7 @@
     "react-dom": "^16.12.0",
     "react": "^16.10.2",
     "rollup-plugin-alias": "^2.0.1",
-    "rollup": "^1.26.5",
+    "rollup": "^1.27.5",
     "react": "^16.12.0",
     "react-test-renderer": "^16.12.0",
     "rollup-plugin-alias": "^2.2.0",
@@ -85,6 +85,6 @@
     "stylelint": "^12.0.0",
     "stylelint-config-recommended": "^3.0.0",
     "stylelint-config-styled-components": "^0.1.1",
-    "stylelint-processor-styled-components": "^1.8.0"
+    "stylelint-processor-styled-components": "^1.9.0"
   }
 }
