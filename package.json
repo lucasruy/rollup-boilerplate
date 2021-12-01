@@ -41,7 +41,7 @@
     "test:covarage": "jest --coverage --colors"
   },
   "peerDependencies": {
-    "eslint": "^7.25.0",
+    "eslint": "^8.3.0",
     "jest": "^27.0.6",
     "prop-types": "^15.7.2",
     "react-dom": "^17.0.2",
@@ -53,7 +53,7 @@
     "@babel/preset-react": "^7.7.0",
     "@babel/preset-react": "^7.10.1",
     "babel-jest": "^27.0.6",
-    "eslint": "^7.25.0",
+    "eslint": "^8.3.0",
     "eslint-config-airbnb": "^18.2.1",
     "eslint-config-standard": "^16.0.3",
     "eslint-plugin-import": "^2.20.2",
