@@ -44,7 +44,7 @@
     "eslint": "^7.25.0",
     "jest": "^28.1.2",
     "prop-types": "^15.7.2",
-    "react-dom": "^17.0.2",
+    "react-dom": "^18.2.0",
     "react": "^17.0.2",
     "styled-components": "^5.2.3"
   },
@@ -64,7 +64,7 @@
     "eslint-plugin-standard": "^5.0.0",
     "jest": "^28.1.2",
     "prop-types": "^15.7.2",
-    "react-dom": "^17.0.2",
+    "react-dom": "^18.2.0",
     "react": "^16.10.2",
     "rollup-plugin-alias": "^2.0.1",
     "rollup": "^2.18.1",
